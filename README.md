@@ -1,2 +1,11 @@
 # PSU_myftp_2017
-Reproduction of an FTP server, compliant filezilla/firefox/chrome
+Replica of an FTP server, compliant filezilla/firefox/chrome
+
+## Usage
+
+```
+$> ./server <port> <directory to serve>
+```
+
+## Author
+* Bastien Rinck
