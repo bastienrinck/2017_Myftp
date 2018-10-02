@@ -1,4 +1,4 @@
-# PSU_myftp_2017
+# 2017_Myftp
 Replica of an FTP server, compliant filezilla/firefox/chrome
 
 ## Usage
